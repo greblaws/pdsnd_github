@@ -7,7 +7,7 @@ from statistics import mean
 import os
 
 
-os.chdir("C:/Users/grebl_000/Documents/00 - Personal/Career/Udacity")
+#os.chdir("C:/Users/grebl_000/Documents/00 - Personal/Career/Udacity")
 
 
 CITY_DATA = { 'chicago': 'chicago.csv',
