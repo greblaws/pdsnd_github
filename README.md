@@ -1,15 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+Github project created on 3/31/2019
 
 ### Project Title
-Replace the Project Title
+The bikeshare project 
 
 ### Description
-Describe what your project is about and what it does
+The bikeshare project explores data from New York City, Washington and Chicago and provides summary statistics per choices given the user regarding  city, month, and day of week desired.
 
 ### Files used
-Include the files used
+bikeshare_kevin.py - Python code
+README.md - (This file)
+(the following data files listed in .gitignore file)
+chicago.csv
+washington.csv
+new_york_city.csv 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Original project sourced from Udacity, and most direction and learning from there.  Some assistance found from Pandas documentation, and examples and hints found from StackExchange contributions.
 
