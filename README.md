@@ -6,7 +6,7 @@ The bikeshare project
 
 ### Description
 The bikeshare project explores data from New York City, Washington and Chicago and provides summary statistics per choices given the user regarding  city, month, and day of week desired.
-__Summary statistics include:__ 
+#####Summary statistics include:
 *   Popular times of travel
 *   Popular stations and trip
 *   Trip duration
@@ -16,7 +16,7 @@ __Summary statistics include:__
 ### Files used
 bikeshare_kevin.py - Python code
 README.md - (This file)
-_(the following data files listed in .gitignore file)_
+#####(the following data files listed in .gitignore file)
 *    chicago.csv
 *    washington.csv
 *    new_york_city.csv 
